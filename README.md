@@ -10,12 +10,12 @@
 
 <hr>
 <br>
-<p align="left">
+<p align="center">
   
 ## Imagem da calculadora Maia Calc Versão 0.1
 </p>
 
 <br>
-<p align="left">
+<p align="center">
 <img src="Calculadora/imagens/Calculadora_MaiaCalc.png"
 </p>
