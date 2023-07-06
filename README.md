@@ -17,5 +17,5 @@
 
 <br>
 <p align="center">
-<img src="Calculadora/imagens/Calculadora_MaiaCalc.png"
+<img src="Calculadora/imagens/Calculadora_MaiaCalc.png">
 </p>
