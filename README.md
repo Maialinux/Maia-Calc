@@ -21,3 +21,8 @@
 
 ### Para executar a calculadora, execute a arquivo main.py com o seguinte comando:
 ### python main.py
+<br>
+
+## Para ver como foi criada a calculadora acesse meu canal:
+
+### https://www.youtube.com/@maialinux-oficial 
