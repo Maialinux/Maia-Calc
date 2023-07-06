@@ -17,3 +17,7 @@
 <br>
 <img src="Calculadora/imagens/Calculadora_MaiaCalc.png">
 </p>
+<hr>
+
+### Para executar a calculadora, execute a arquivo main.py com o seguinte comando:
+### python main.py
